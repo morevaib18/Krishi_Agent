@@ -1,0 +1,60 @@
+{
+  "default_user": {
+    "style": "balanced",
+    "priority": "balanced",
+    "history": []
+  },
+  "farmer_user": {
+    "style": "detailed",
+    "priority": "balanced",
+    "history": [
+      {
+        "signal": "prefer_concise",
+        "timestamp": "2026-04-26T16:18:41.487843"
+      },
+      {
+        "signal": "prefer_concise",
+        "timestamp": "2026-04-27T05:42:41.661246"
+      },
+      {
+        "signal": "prefer_detailed",
+        "timestamp": "2026-04-27T05:42:43.973023"
+      },
+      {
+        "signal": "prefer_concise",
+        "timestamp": "2026-04-27T05:45:11.017022"
+      },
+      {
+        "signal": "prefer_detailed",
+        "timestamp": "2026-04-27T05:45:37.495635"
+      }
+    ]
+  },
+  "streamlit_user": {
+    "style": "detailed",
+    "priority": "balanced",
+    "history": [
+      {
+        "signal": "prefer_concise",
+        "timestamp": "2026-04-27T05:59:33.579112"
+      },
+      {
+        "signal": "prefer_detailed",
+        "timestamp": "2026-04-27T05:59:37.115254"
+      },
+      {
+        "signal": "prefer_concise",
+        "timestamp": "2026-06-02T12:07:09.110168"
+      },
+      {
+        "signal": "prefer_detailed",
+        "timestamp": "2026-06-02T12:07:16.551029"
+      }
+    ]
+  },
+  "evaluation_user": {
+    "style": "balanced",
+    "priority": "balanced",
+    "history": []
+  }
+}
